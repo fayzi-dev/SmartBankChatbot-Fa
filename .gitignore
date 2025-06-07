@@ -1,0 +1,16 @@
+# Ignore IntelliJ IDEA project files
+
+
+.DS_Store
+Thumbs.db
+
+.myproject-env/
+myproject-env/*
+git/*
+.git/*
+HAR_Dataset/*
+.HAR_Dataset/*
+
+*.log
+*.zip
+*.csv
